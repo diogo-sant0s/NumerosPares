@@ -1,0 +1,11 @@
+Algorythm EvenNumber;
+Variables int:number;
+
+Home 
+     write ("Enter an integer")
+     if number % 2 == 0 then;
+     write ("The number is even")
+     else
+     write ("The number is odd")
+
+End

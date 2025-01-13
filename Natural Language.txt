@@ -1,0 +1,9 @@
+1- Home
+2- Ask the user for a number
+3- Save the entered number
+4- Check if the number is even or odd
+5- If it is even, skip to the step 7
+6- If it is odd, skip to the step 8
+7- Write the number is even
+8- Write the number is odd
+9- End
